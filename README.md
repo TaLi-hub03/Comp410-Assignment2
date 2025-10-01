@@ -7,17 +7,17 @@
 ---
 
 ## 📑 Assignment Requirements
-Both questions (Q1 and Q2) include:
+Both questions include:
 - Fully Dressed Use Case
 - Success, Alternate, and Failure Scenarios
 - Use Case Diagram
-- System Sequence Diagrams (Success + Failure)
+- System Sequence Diagrams
 
 ---
 
 ## 🔗 Quick Links
 
-### Q2 – Patient Tracker (Your Work)
+### Q2 – Patient Tracker
 - [Use Case](Q2-Patient-Tracker/docs/UseCase.md)  
 - [Scenarios](Q2-Patient-Tracker/docs/Scenarios.md)  
 - [Use Case Diagram](Q2-Patient-Tracker/docs/UseCaseDiagram.png)  
