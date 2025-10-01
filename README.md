@@ -1,20 +1,25 @@
-# Patient Tracker - Assignment 2 (COMP410, Fall 2025)
+# COMP410 - Assignment 2 (Fall 2025)
 
-This repository contains the deliverables for Assignment II – Q-2: Patient Tracker.  
-The Patient Tracker is a proposed Android-based system to help doctors record and manage patient history locally on their phones.
+## 👥 Team Members
+- [Partner’s Name] – Q1: Multi-Agent Shopping App
+- Taliah Lilly – Q2: Patient Tracker   
 
 ---
 
-## 📂 Deliverables
+## 📑 Assignment Requirements
+Both questions (Q1 and Q2) include:
+- Fully Dressed Use Case
+- Success, Alternate, and Failure Scenarios
+- Use Case Diagram
+- System Sequence Diagrams (Success + Failure)
 
-### 🔹 Fully Dressed Use Case
-- [UseCase.md](docs/UseCase.md)
+---
 
-### 🔹 Success, Alternate, and Failure Scenarios
-- [Scenarios.md](docs/Scenarios.md)
+## 🔗 Quick Links
 
-### 🔹 UML Diagrams
-- [Use Case Diagram](docs/UseCaseDiagram.png)
-- [System Sequence Diagram – Success](docs/SSD_Success.png)
-- [System Sequence Diagram – Failure](docs/SSD_Failure.png)
-
+### Q2 – Patient Tracker (Your Work)
+- [Use Case](Q2-Patient-Tracker/docs/UseCase.md)  
+- [Scenarios](Q2-Patient-Tracker/docs/Scenarios.md)  
+- [Use Case Diagram](Q2-Patient-Tracker/docs/UseCaseDiagram.png)  
+- [SSD Success](Q2-Patient-Tracker/docs/SSD_Success.png)  
+- [SSD Failure](Q2-Patient-Tracker/docs/SSD_Failure.png)  
