@@ -1,7 +1,7 @@
 # COMP410 - Assignment 2 (Fall 2025)
 
 ## 👥 Team Members
-- Adaeze (Last Name) – Q1: Multi-Agent Shopping App
+- Adaeze Uwazie – Q1: Multi-Agent Shopping App
 - Taliah Lilly – Q2: Patient Tracker   
 
 ---
