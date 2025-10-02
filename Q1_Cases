@@ -1,0 +1,38 @@
+# Fully Dressed Use Case: Shopping with AI Recommendation Engine
+
+**Use Case Name:** Shopping with AI Recommendation Engine
+**Actor:** Registered User
+**Goal:** Register and login with a ID and password, search, add and pay for products
+
+## Preconditions
+- User has registered and has valid login credentials.
+- System has access to product catalogs and recommendation engine.
+## Postconditions
+- User has searched, added items to cart, and completed a purchase successfully.
+- User receives personalized suggestions.
+- Payment is processed securely.
+
+## Main Flow (Success Scenario)
+1. User opens the app and logs in with ID and password.
+2. System validates credentials and displays home page.
+3. User searches for a product or browses categories.
+4. System displays product search results.
+5. User views product details and adds desired items to the cart.
+6. System generates AI-based recommendations based on past searches and purchases.
+7. User reviews recommendations and optionally adds suggested items to the cart.
+8. User proceeds to checkout.
+9. System displays payment options (credit card, PayPal, digital wallet, etc.).
+10. User selects preferred payment option and confirms payment.
+11. System validates payment and confirms purchase.
+12. User receives confirmation and order summary.
+
+## Alternate Flow
+- User refines search with filters → System updates product list.
+- If AI cannot find relevant suggestions, system shows trending/popular items.
+- User cancels checkout → System saves cart for later.
+- User selects multiple payment options (split payment) if supported.
+
+## Failure Flow
+- Invalid login credentials → System displays error message and prompts retry.
+- Payment option unavailable → User must choose another payment option.
+- Payment fails due to insufficient funds or network error → System displays failure, allows retry or cancel.
