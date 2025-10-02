@@ -1,1 +1,23 @@
-asjkdf
+# Shopping with AI Recommendation Engine - Scenarios
+
+## Success Scenario
+- User logs in successfully.
+- Searches for a laptop.
+- Adds laptop to cart.
+- Receives suggestions for laptop accessories (mouse, cooling pad).
+- Adds accessories to cart.
+- Proceeds to checkout, selects PayPal, and completes payment.
+- Order confirmation is sent.
+
+## Alternate Scenario
+- User logs in successfully.
+- Searches for a phone.
+- System does not have enough purchase history to suggest personalized items, so it shows trending phones.
+- User selects a phone, adds it to cart.
+- At checkout, user decides to cancel the purchase.
+- Cart is saved for later.
+
+## Failure Scenario
+- User attempts to log in with wrong password.
+- After three failed attempts, system locks account and prompts for password reset.
+- Alternatively, if user reaches checkout, payment fails due to card being declined.
